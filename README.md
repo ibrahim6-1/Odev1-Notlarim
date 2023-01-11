@@ -1,16 +1,5 @@
 # animation
 
-A new Flutter project.
+Bir animasyon gösterimi var
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![animaiton](https://user-images.githubusercontent.com/118055744/211845956-a7941d28-757f-4e9b-9145-259f34d5ed0a.JPG)
